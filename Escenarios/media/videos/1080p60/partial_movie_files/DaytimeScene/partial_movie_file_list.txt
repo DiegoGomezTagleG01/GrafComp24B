@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Diego/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/Escenarios/media/videos/1080p60/partial_movie_files/DaytimeScene/3977891868_1115962265_1529991128.mp4'
+file 'file:C:/Users/Diego/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/Escenarios/media/videos/1080p60/partial_movie_files/DaytimeScene/2852726489_3334380357_2314449841.mp4'
+file 'file:C:/Users/Diego/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/Escenarios/media/videos/1080p60/partial_movie_files/DaytimeScene/2852726489_1141282389_2383468072.mp4'
