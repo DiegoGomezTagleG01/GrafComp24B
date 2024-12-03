@@ -1,9 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/RCySD14/Desktop/Manim/media/videos/archivo_7/480p15/partial_movie_files/Shapes/1185818338_1777078706_223132457.mp4'
-file 'file:C:/Users/RCySD14/Desktop/Manim/media/videos/archivo_7/480p15/partial_movie_files/Shapes/624642324_657936445_4272345035.mp4'
-file 'file:C:/Users/RCySD14/Desktop/Manim/media/videos/archivo_7/480p15/partial_movie_files/Shapes/624642324_168301677_223132457.mp4'
-file 'file:C:/Users/RCySD14/Desktop/Manim/media/videos/archivo_7/480p15/partial_movie_files/Shapes/624642324_2114720087_3978803992.mp4'
-file 'file:C:/Users/RCySD14/Desktop/Manim/media/videos/archivo_7/480p15/partial_movie_files/Shapes/624642324_1983894900_223132457.mp4'
-file 'file:C:/Users/RCySD14/Desktop/Manim/media/videos/archivo_7/480p15/partial_movie_files/Shapes/624642324_368863915_2918917887.mp4'
-file 'file:C:/Users/RCySD14/Desktop/Manim/media/videos/archivo_7/480p15/partial_movie_files/Shapes/624642324_2778803907_223132457.mp4'
-file 'file:C:/Users/RCySD14/Desktop/Manim/media/videos/archivo_7/480p15/partial_movie_files/Shapes/624642324_468810289_2685123717.mp4'
