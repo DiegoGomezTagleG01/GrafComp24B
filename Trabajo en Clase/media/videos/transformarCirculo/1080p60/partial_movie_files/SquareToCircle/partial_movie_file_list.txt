@@ -1,4 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/Diego/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/Trabajo en Clase/media/videos/transformarCirculo/1080p60/partial_movie_files/SquareToCircle/3977891868_661115485_223132457.mp4'
-file 'file:C:/Users/Diego/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/Trabajo en Clase/media/videos/transformarCirculo/1080p60/partial_movie_files/SquareToCircle/2852726489_3647426995_3608672878.mp4'
-file 'file:C:/Users/Diego/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/Trabajo en Clase/media/videos/transformarCirculo/1080p60/partial_movie_files/SquareToCircle/2852726489_1722801368_3608672878.mp4'
