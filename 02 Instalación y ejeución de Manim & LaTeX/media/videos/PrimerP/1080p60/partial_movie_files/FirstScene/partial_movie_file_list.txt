@@ -1,3 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/Diego/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/02 Instalación y ejeución de Manim & LaTeX/media/videos/PrimerP/1080p60/partial_movie_files/FirstScene/3977891868_1860141410_3256495558.mp4'
-file 'file:C:/Users/Diego/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/02 Instalación y ejeución de Manim & LaTeX/media/videos/PrimerP/1080p60/partial_movie_files/FirstScene/2852726489_1733944848_676968548.mp4'
