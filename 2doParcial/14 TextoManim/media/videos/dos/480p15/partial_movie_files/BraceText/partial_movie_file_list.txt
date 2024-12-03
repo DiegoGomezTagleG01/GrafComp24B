@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Diego/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/14 TextoManim/media/videos/dos/480p15/partial_movie_files/BraceText/1185818338_12346132_223132457.mp4'
+file 'file:C:/Users/Diego/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/14 TextoManim/media/videos/dos/480p15/partial_movie_files/BraceText/624642324_708104412_4246843293.mp4'
+file 'file:C:/Users/Diego/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/14 TextoManim/media/videos/dos/480p15/partial_movie_files/BraceText/624642324_1704852926_3997070207.mp4'

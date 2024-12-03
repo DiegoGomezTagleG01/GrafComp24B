@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/14 TextoManim/media/videos/portada/480p15/partial_movie_files/PortadaPresentacion/931832650_3551769794_2605066669.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/14 TextoManim/media/videos/portada/480p15/partial_movie_files/PortadaPresentacion/1905288516_3918886216_890175326.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/14 TextoManim/media/videos/portada/480p15/partial_movie_files/PortadaPresentacion/1905288516_557951643_3164588747.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/14 TextoManim/media/videos/portada/480p15/partial_movie_files/PortadaPresentacion/1905288516_303613629_3787031857.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/14 TextoManim/media/videos/portada/480p15/partial_movie_files/PortadaPresentacion/1905288516_3168297994_2704447750.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/14 TextoManim/media/videos/portada/480p15/partial_movie_files/PortadaPresentacion/1905288516_1165985053_2319806941.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/14 TextoManim/media/videos/portada/480p15/partial_movie_files/PortadaPresentacion/1905288516_746352011_2611002932.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/14 TextoManim/media/videos/portada/480p15/partial_movie_files/PortadaPresentacion/1905288516_1165985053_2559872612.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/14 TextoManim/media/videos/portada/480p15/partial_movie_files/PortadaPresentacion/1905288516_3647914730_153843095.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/14 TextoManim/media/videos/portada/480p15/partial_movie_files/PortadaPresentacion/1905288516_1112184070_4201056216.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/14 TextoManim/media/videos/portada/480p15/partial_movie_files/PortadaPresentacion/1905288516_1165985053_1629354748.mp4'

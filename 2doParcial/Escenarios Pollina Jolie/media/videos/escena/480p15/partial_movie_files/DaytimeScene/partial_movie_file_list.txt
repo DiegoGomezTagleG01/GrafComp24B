@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/Escenarios Pollina Jolie/media/videos/escena/480p15/partial_movie_files/DaytimeScene/1185818338_1136172120_673007015.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/Escenarios Pollina Jolie/media/videos/escena/480p15/partial_movie_files/DaytimeScene/624642324_3022752640_1193528062.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/Escenarios Pollina Jolie/media/videos/escena/480p15/partial_movie_files/DaytimeScene/624642324_1141282389_2791209294.mp4'

@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/vectores paralelos u ortogonales/media/videos/ejemplos/480p15/partial_movie_files/VectorScene/1185818338_3916848250_223132457.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/vectores paralelos u ortogonales/media/videos/ejemplos/480p15/partial_movie_files/VectorScene/624642324_996653107_2406909810.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/vectores paralelos u ortogonales/media/videos/ejemplos/480p15/partial_movie_files/VectorScene/624642324_1141497598_237297114.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/vectores paralelos u ortogonales/media/videos/ejemplos/480p15/partial_movie_files/VectorScene/624642324_3138939249_3382510581.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/vectores paralelos u ortogonales/media/videos/ejemplos/480p15/partial_movie_files/VectorScene/624642324_1475018588_2134988788.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/vectores paralelos u ortogonales/media/videos/ejemplos/480p15/partial_movie_files/VectorScene/624642324_1141282389_1325620215.mp4'

@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/Escenarios Pollina Jolie/media/videos/Escenario/480p15/partial_movie_files/Escenario/931832650_895060720_2259034511.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/Escenarios Pollina Jolie/media/videos/Escenario/480p15/partial_movie_files/Escenario/1905288516_1752182957_2800313418.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/Escenarios Pollina Jolie/media/videos/Escenario/480p15/partial_movie_files/Escenario/1905288516_2063453502_2600620575.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/Escenarios Pollina Jolie/media/videos/Escenario/480p15/partial_movie_files/Escenario/1905288516_1165985053_1987904284.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/Escenarios Pollina Jolie/media/videos/Escenario/480p15/partial_movie_files/Escenario/1905288516_2056493809_1870514688.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/Escenarios Pollina Jolie/media/videos/Escenario/480p15/partial_movie_files/Escenario/1905288516_145834579_4208674659.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/Escenarios Pollina Jolie/media/videos/Escenario/480p15/partial_movie_files/Escenario/1905288516_1165985053_1233121738.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/Escenarios Pollina Jolie/media/videos/Escenario/480p15/partial_movie_files/Escenario/1905288516_920019063_3467491062.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/Escenarios Pollina Jolie/media/videos/Escenario/480p15/partial_movie_files/Escenario/1905288516_1165985053_1361060934.mp4'
+file 'file:C:/Users/USER/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/Escenarios Pollina Jolie/media/videos/Escenario/480p15/partial_movie_files/Escenario/1905288516_1849251371_369107730.mp4'

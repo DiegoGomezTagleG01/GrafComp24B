@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Diego/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/14 TextoManim/media/videos/TextoMas/1080p60/partial_movie_files/WriteText/3977891868_3010267896_223132457.mp4'
+file 'file:C:/Users/Diego/Desktop/Universidad ICO/7to Semestre/Graficacion computacional/14 TextoManim/media/videos/TextoMas/1080p60/partial_movie_files/WriteText/2852726489_2475379470_1965836971.mp4'
